@@ -22,3 +22,13 @@ Agora eu vou escrever um código em HTML para testar:
   </body>
  </html>
  ```
+
+
+## Utilidades do arquivo README.ad
+* Descrição do seu projeto
+* Funcionalidades
+* Como usuários devem usar
+* Onde os usuários podem encontrar ajuda sobre o projeto
+* Autores do projeto
+
+Para executar o arquivo app.js
